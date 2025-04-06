@@ -30,3 +30,5 @@ Cons:
 Requires careful style scoping
 More complex to build and distribute
 Potential for conflicts with host styles or scripts
+
+To replicate this project...deploy/build
