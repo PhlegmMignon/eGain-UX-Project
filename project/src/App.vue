@@ -5,7 +5,11 @@ const iFrameLink = "https://phlegmmignon.github.io/eGain-UX-Project/";
 </script>
 
 <template>
-  <RouterView />
+  <div class="flex justify-center">
+    <div class="p-4 pt-10 max-w-5xl flex flex-col">
+      <RouterView />
+    </div>
+  </div>
   <!-- <iframe :src="iFrameLink" width="700px" height="700px"></iframe> -->
 </template>
 

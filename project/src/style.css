@@ -5,8 +5,13 @@ html {
 }
 
 body {
-  color: #3d74cc;
+  color: var(--p-text-primary);
   font-family: "Inter", sans-serif;
+}
+
+p,
+label {
+  color: var(--p-text-secondary);
 }
 
 /* Primary and Surface Palettes */
@@ -35,6 +40,9 @@ body {
   --p-surface-900: #18181b;
   --p-surface-950: #09090b;
   --p-content-border-radius: 6px;
+
+  --p-text-primary: #3d74cc;
+  --p-text-secondary: #333333;
 }
 
 /* Light */
