@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from "vue-router";
 import Description from "../views/Description.vue";
 import Questions from "../views/Questions.vue";
+import Verify from "../views/Verify.vue";
+import SolutionFeedback from "../views/SolutionFeedback.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -14,6 +16,16 @@ const router = createRouter({
       path: "/questions",
       name: "Questions",
       component: Questions,
+    },
+    {
+      path: "/verify",
+      name: "Verify",
+      component: Verify,
+    },
+    {
+      path: "/solution-feedback",
+      name: "SolutionFeedback",
+      component: SolutionFeedback,
     },
   ],
 });

@@ -5,7 +5,8 @@ html {
 }
 
 body {
-  color: black;
+  color: #3d74cc;
+  font-family: "Inter", sans-serif;
 }
 
 /* Primary and Surface Palettes */
