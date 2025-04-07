@@ -8,16 +8,14 @@
 2. The widget must present questions to the end user and record the answers they provide.
 3. The widget must be able to present questions one at a time or more than one at a time, based on what
    the backend service provides. Answers can be of the following types:
-
-- Text enumerated form: Show text options, and the user picks one.
-- Image enumerated form: Show a few images, and the user picks one.
-- Text box: Freeform text box to type.
-- Numerical answer: Freeform text box that accepts only numbers.
+   - Text enumerated form: Show text options, and the user picks one.
+   - Image enumerated form: Show a few images, and the user picks one.
+   - Text box: Freeform text box to type.
+   - Numerical answer: Freeform text box that accepts only numbers.
 
 4. All answered questions must be displayed under an Answered section.
-
-- Users must be able to click on an answered question and change their answer.
-- After answering a few questions, the system will provide a solution to the problem.
+   - Users must be able to click on an answered question and change their answer.
+   - After answering a few questions, the system will provide a solution to the problem.
 
 5. The widget must allow the user to provide feedback on whether the answer was helpful or not.
 6. The widget must be embeddable on any web page.
