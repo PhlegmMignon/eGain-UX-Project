@@ -1,9 +1,3 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-
 Assumptions: Admin can edit my code.
 
 Since I'm mocking all server inputs, I'm using GitHub Pages instead of deploying a backend service to something like Fly.io.
@@ -32,3 +26,9 @@ More complex to build and distribute
 Potential for conflicts with host styles or scripts
 
 To replicate this project...deploy/build
+
+If I had more time:
+Media queries. Middle screen sizes have awkward paddings.
+Feedback section could be styled better.
+Questions dynamic format. Chose to hard code for simplicity and time constraints
+Assessibility

@@ -30,17 +30,4 @@ const router = createRouter({
   ],
 });
 
-// routes = [
-//   {
-//     path: "/",
-//     name: "Description",
-//     component: Description,
-//   },
-//   {
-//     path: "/questions",
-//     name: "Questions",
-//     component: Questions,
-//   },
-// ];
-
 export default router;
