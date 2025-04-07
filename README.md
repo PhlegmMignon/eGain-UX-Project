@@ -46,8 +46,12 @@ TO meet requirement 7, colors, fonts, and font sizes can be changed in style.css
 1. Clone the repository
 2. Skip this step, but come back if it doesn't work. Run `npm run build` and paste generated files in repo
 3. Configure your settings like so. It takes 30s-1min to build before you can see the section containing Visit Site button.
+   ![image](https://github.com/user-attachments/assets/a427eb9c-4c85-42e9-9fba-50e1f6b43edc)
 
-4. To use the widget in your app, use lines 4 and 8 in your code.
+
+5. To use the widget in your app, use lines 4 and 8 in your code.
+   ![image](https://github.com/user-attachments/assets/766c752e-970f-46c0-ac64-dd6f1e8ee110)
+
 
 ## Design and Reflections
 
