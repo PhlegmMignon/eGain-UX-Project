@@ -10,7 +10,6 @@ const iFrameLink = "https://phlegmmignon.github.io/eGain-UX-Project/";
       <RouterView />
     </div>
   </div>
-  <!-- <iframe :src="iFrameLink" width="700px" height="700px"></iframe> -->
 </template>
 
 <style scoped></style>

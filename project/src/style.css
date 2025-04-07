@@ -11,7 +11,8 @@ body {
 
 p,
 label,
-input {
+input,
+textarea {
   color: var(--p-text-secondary);
 }
 
