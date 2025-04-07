@@ -10,7 +10,8 @@ body {
 }
 
 p,
-label {
+label,
+input {
   color: var(--p-text-secondary);
 }
 
